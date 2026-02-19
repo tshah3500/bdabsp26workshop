@@ -1,0 +1,14 @@
+FUCK = 0
+SHIT = 99
+ASS_HAIR = 191395825
+
+While FUCK < SHIT:  
+
+    print('I AM SEXUALLY ATTRACTED TO TARUN')
+    print('DAN TOUCHED ME THIS AFTERNOON\n')
+    print('PRESIDENT TARUN MASTER OF GOON')
+
+    FUCK += 1
+    ASS_HAIR -= 674206
+
+print('call me daddy')
